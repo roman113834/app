@@ -1,0 +1,535 @@
+.top_block {
+    display: flex;
+    position: relative;
+    /* flex-direction: row; */
+    justify-content: center;
+    width: 100%;
+    height: 581px;
+    background: #3653B7;
+    overflow: hidden;
+}
+
+.top_block_left {
+    display: flex;
+    flex-direction: column;
+    padding: 131.83px 0 0 0;
+}
+
+.head_text {
+    display: flex;
+    flex-direction: row;
+    width: 601.91px;
+    margin-bottom: 24.74px;
+}
+
+.head_text p {
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 60px;
+    line-height: 74px;
+    color: #FFC700;
+}
+
+.head_text b {
+    color: #FFFFFF;
+}
+
+.small_text {
+    width: 350.35px;
+    margin-bottom: 63.62px;
+}
+
+.small_text p {
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.button_post_job {
+    width: 193.7px;
+    height: 44.46px;
+    background: #FFC700;
+    border-radius: 72px;
+    cursor: pointer;
+}
+
+.button_post_job p{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.top_block_right {
+    display: flex;
+}
+
+.ellipse_0 {
+    margin: 186px 0 0 17.71px;
+}
+
+.wrapp_ellipse_1 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.wrapp_ellipse_2 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.ellipse_1 {
+    position: absolute;
+    margin-top: -200px;
+}
+
+.ellipse_2 {
+    position: absolute;
+    margin-top: -70px;
+    right: 50px
+}
+
+.ellipse_3 {
+    position: absolute;
+    margin: 136.87px 0 0 89.17px;
+}
+
+.ellipse_4 {
+    position: absolute;
+    margin: 122.87px 0 0 70.41px;
+}
+
+.girl {
+    position: absolute;
+    margin: 53px 0 0 33.54px;
+}
+
+.steps {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.steps h1{
+    margin: 103.1px 0 50.05px 0;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 50px;
+    line-height: 61px;
+    color: #35435E;
+}
+
+.wrapp_blocks {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+.block {
+    width: 285px;
+    height: 297.58px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 11px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    border-bottom: 5.55px solid #FFC700;
+    margin: 0 19px 132.07px;
+}
+
+.block_hr {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.block_hr hr {
+    margin: 31.46px 0 14.52px 0;
+    opacity: 0.5;
+    width: 179.99px;
+}
+
+.block h2 {
+    margin: 22.85px 0 22.58px 0;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #35435E;
+}
+
+.block img {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.block_1 {
+    margin-top: 12.5px;
+}
+
+.block p {
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #3653B7;
+}
+
+.block_text_0 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #35435E;
+}
+
+.block_text_1 {
+    color: #35435E;
+}
+
+.block_text_2 {
+    color: #35435E !important;
+}
+
+.img_block {
+    width: 93.25px;
+    height: 93.25px;
+}
+
+.wrapp_phones {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.wrapp_blocks_img {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.wrapp_phones h2 {
+    margin-bottom: 27.59px;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    color: #35435E;
+}
+
+.wrapp_phones_text {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 15.63px;
+}
+
+.wrapp_phones_text p {
+    width: 545.58px;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: #35435E;
+}
+
+.wrapp_phones .shooters {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.shooters {
+    width: 468.92px;
+    height: 68.14px;
+}
+
+.wrapp_phones .phone {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.phone {
+    width: 354px;
+    height: 695px;
+}
+
+.btn_telegram_channel {
+    position: absolute;
+    cursor: pointer;
+    margin-top: 53px;
+    width: 202.34px;
+    height: 46.45px;
+}
+
+.wrapp_phones .wrapp_blocks_img {
+    width: 100%;
+    justify-content: center;
+}
+
+.wrapp_phone_img {
+    display: flex;
+    margin: 0 30px;
+    width: 354px;
+    height: 695px;
+    justify-content: center;
+}
+
+.wrapp_phones .telegram_iphone {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.wrapp_phone_img .telegram_iphone {
+    display: flex;
+    width: 354px;
+    justify-content: center;
+}
+
+.telegram_iphone {
+    position: absolute;
+    margin-top: 148px;
+    width: 62.25px;
+    height: 62.25px;
+}
+
+.wrapp_phone_img .chat_iphone {
+    display: flex;
+    width: 354px;
+    justify-content: center;
+}
+.chat_iphone {
+    position: absolute;
+    margin-top: 245px;
+    width: 187px;
+    height: 290.72px;
+}
+
+.wrapp_phone_img .ellipse_iphone {
+    display: flex;
+}
+
+.ellipse_iphone {
+    position: absolute;
+    margin-left: -103.65px;
+    margin-top: 607px;
+    width: 40.35px;
+    height: 43.41px;
+}
+
+.block_website {
+    width: 350.01px ;
+    height: 564.01px ;
+}
+
+.wrapp_block_website {
+    display: flex;
+    width: 350.01px;
+    justify-content: center;
+}
+
+.wrapp_block_mobile_app {
+    display: flex;
+    width: 350.01px;
+}
+
+.btn_website {
+    position: absolute;
+    cursor: pointer;
+    margin-top: 53px;
+    width: 202.34px;
+    height: 46.45px;    
+}
+
+.block_mobile_app {
+    width: 350.01px;
+    height: 562.44px;
+}
+
+.wrapp_block_mobile_app .btn_mobile_app {
+    margin-left: 75.83px;
+}
+
+.btn_mobile_app {
+    position: absolute;
+    cursor: pointer;
+    margin-top: 53px;
+    width: 202.34px;
+    height: 46.45px;
+}
+
+.app_store {
+    position: absolute;
+    margin-top: 131px;
+    margin-left: 39px;
+    width: 62.19px;
+    height: 62.19px;
+}
+
+.google_play {
+    position: absolute;
+    margin-top: 131px;
+    margin-left: 248px;
+    width: 62.19px;
+    height: 62.19px;
+}
+
+.wrapp_bracket {
+    display: flex;
+}
+
+.wrapp_bracket .bracket {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.bracket {
+    position: absolute;
+    width: 1110px;
+    height: 119.35px;
+}
+
+.job_candidates {
+    margin-top: 130px;
+    margin-bottom: 103px;
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: #35435E;
+}
+
+.block_QR_code_header{
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 750;
+    font-size: 57.5991px;
+    line-height: 71px;
+    text-align: center;
+    color: #35435E;
+    margin-bottom: 67px;
+}
+
+.block_QR_code_header b{
+    color: #6b94ce;
+}
+
+.block_QR_code {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.block_QR_code .qr_code {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.qr_code {
+    width: 519.89px;
+    height: 316.03px;
+}
+
+.wrapp_btn_post_job{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 72px;
+    margin-bottom: 110px;
+}
+
+.bottom_block {
+    display: flex;
+    height: 847.91px;
+    background: #3653B7; 
+}
+
+.bottom_block .bottom_block_left {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+}
+
+.bottom_block_left {
+    margin-top: 745px;
+    margin-left: 49.65px;
+    width: 140px;
+}
+
+.bottom_block .block_faq {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom_block .bottom_block_right {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    
+}
+.bottom_block_right {
+    margin-top: 661px;
+    margin-right: 28.88px;
+    width: 140px;
+}
+
+.bottom_block_right_img {
+    width: 136.4px;
+    height: 146.74px;
+}
+
+.bottom_block_left_img {
+    width: 57.83px;
+    height: 67.81px;
+}
+.big_ellipse {
+    position: absolute;
+    width: 675.61px;
+    height: 675.61px;
+    left: -258px;
+    top: 829.71px;
+}
+
+.ellipse_5 {
+    position: absolute;
+    width: 76.06px;
+    height: 76.06px;
+    left: 150.71px;
+    top: 1409.23px;
+}
